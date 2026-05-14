@@ -1,6 +1,3 @@
-[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jorgerstar/customer-segmentation/blob/main/Lab2_NoSupervisado_FINAL.ipynb)
 # 🛍️ Laboratorio 2 — Modelos de Aprendizaje No Supervisado
 ### Segmentación de Clientes en una Plataforma de Servicios Digitales
 
